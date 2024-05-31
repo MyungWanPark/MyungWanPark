@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20😊&fontAlignY=40&fontAlign=50" />
-  <h3 align="center">개발 철학</h3>
+  <h3 align="center">📍Introduce </h3>
   <p>마치 마피아 게임을 하듯, 문제를 정확히 인식한 후 <br/>
     한 단계씩 논리적으로 접근하여 코드로 문제를 해결하는 과정을 즐깁니다.</p>
   <p>또한 사용자로 하여금 계속해서 생각나는 서비스를 만들고 싶은 욕심이 있습니다.<br/>
