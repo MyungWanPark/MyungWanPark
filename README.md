@@ -56,3 +56,25 @@
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Sanity-F36458?style=flat&logo=sanity&logoColor=white" />&nbsp
 </div>
+
+<br/>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://simplistic-hippodraco-d28.notion.site/UX-18b1d1c7bfd3403da3da84fd9163e60d">
+    <img src="https://img.shields.io/badge/Portfolio-F7F7F5?style=flat&logo=notion&logoColor=black" />&nbsp
+  </a>
+  <a href="mailto:mywanpark@gmail.com">
+    <img
+      src="https://img.shields.io/badge/mywanpark@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<div align = "center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MyungWanPark&show_icons=true&hide_rank=true" />
+  </a>
+</div>
