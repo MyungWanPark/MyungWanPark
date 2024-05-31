@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/SWR-000000?style=flat&logo=SWR&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Context API-000000?style=flat&logo=react&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />&nbsp
+  <br/>
   <img src="https://img.shields.io/badge/Sanity-F36458?style=flat&logo=sanity&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />&nbsp
