@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20😊&fontAlignY=40&fontAlign=50" />
-  <h3 align="center">퍼즐 맞추기 같은 코딩</h3>
-  <p>마치 퍼즐을 맞추듯, 문제를 정확히 인식하고 이를 해결하기 위해 개발하는 것을 좋아합니다.</p>
+  <h3 align="center">마피아 게임 같은 개발</h3>
+  <p>마치 마피아 게임을 하듯, 문제를 정확히 인식한 후 <br/>
+    한 단계씩 논리적으로 접근하여 코드로 문제를 해결하는 과정을 즐깁니다.</p>
 </div>
 
 <br/>
