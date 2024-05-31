@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome!&fontAlignY=40&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20🤗&fontAlignY=40&fontAlign=50" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=30&color=6F9AAF&center=true&random=false&width=435&lines=Frontend+Web+Developer" alt="Typing SVG" /></a>
 </div>
 
