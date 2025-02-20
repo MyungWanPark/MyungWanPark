@@ -70,7 +70,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://simplistic-hippodraco-d28.notion.site/UX-18b1d1c7bfd3403da3da84fd9163e60d">
+  <a href="https://simplistic-hippodraco-d28.notion.site/155a4f7f5840806b92b6c7e85716abd7">
     <img src="https://img.shields.io/badge/Portfolio-F7F7F5?style=flat&logo=notion&logoColor=black" />&nbsp
   </a>
   <a href="mailto:mywanpark@gmail.com">
