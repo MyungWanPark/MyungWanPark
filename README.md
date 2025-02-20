@@ -3,7 +3,7 @@
   <h3 align="center">📍Introduce </h3>
   <p>문제와 범위를 구체적으로 정의한 후 <br/>
     한 단계씩 논리적으로 접근하여 문제를 해결하는 것을 좋아합니다.</p>
-  <p>사용자가 사용하기 쉽고, 편리한 서비스를 개발하고 싶습니다.<br/>
+  <p>사용자가 사용하기 편리한 서비스를 개발하고 싶습니다.<br/>
     이를 위해 꾸준히 학습하며, 성장하고 있습니다.</p>
 </div>
 
@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=30&color=6F9AAF&center=true&random=false&width=435&lines=Frontend+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=30&color=6F9AAF&center=true&random=false&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
 <br/>
