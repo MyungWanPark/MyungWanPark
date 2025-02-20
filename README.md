@@ -35,6 +35,13 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />&nbsp
 </div>
 
+<h3 align="center">Database</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />&nbsp
+</div>
+
 <h3 align="center">Style & Mark Up</h3>
 
 <div align="center">
