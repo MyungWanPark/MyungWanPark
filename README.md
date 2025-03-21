@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20😊&fontAlignY=40&fontAlign=50" />
   <h3 align="center">📍Introduce </h3>
-  <p>문제를 구체적으로 정의한 후 <br/>
+  <p>문제를 구체화하여 <br/>
     한 단계씩 논리적으로 해결하는 것을 좋아합니다.</p>
   <p>사용자를 위한 서비스를 개발하기 위해<br/>
     꾸준히 학습하며, 성장하고 있습니다.</p>
