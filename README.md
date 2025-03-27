@@ -8,13 +8,11 @@
 </div>
 
 <br/>
-<br/>
-
+<!-- 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=30&color=6F9AAF&center=true&random=false&width=435&lines=Full-Stack+Developer" alt="Typing SVG" /></a>
 </div>
-
-<br/>
+-->
 
 <!--내용 부분-->
 <h2 align="center">✨ Tech Stack ✨</h2>
@@ -24,15 +22,22 @@
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=F7D652" />&nbsp
+  <img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=F7D652" />&nbsp
 </div>
 
-<h3 align="center">Framework</h3>
+<h3 align="center">Framework & UI Library</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next-000000?style=flat&logo=nextdotjs&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React-3998B6?style=flat&logo=react&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />&nbsp
+</div>
+
+<h3 align="center">State Management</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Context API-000000?style=flat&logo=react&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">Database</h3>
@@ -64,8 +69,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/SWR-000000?style=flat&logo=SWR&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Context API-000000?style=flat&logo=react&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" />&nbsp
   <br/>
   <img src="https://img.shields.io/badge/Sanity-F36458?style=flat&logo=sanity&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />&nbsp
